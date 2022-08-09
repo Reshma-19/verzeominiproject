@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verzeominiproject/static/css/main.cbc610ab.css",
+    "main.js": "/verzeominiproject/static/js/main.b69ad81d.js",
+    "index.html": "/verzeominiproject/index.html",
+    "main.cbc610ab.css.map": "/verzeominiproject/static/css/main.cbc610ab.css.map",
+    "main.b69ad81d.js.map": "/verzeominiproject/static/js/main.b69ad81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc610ab.css",
+    "static/js/main.b69ad81d.js"
+  ]
+}

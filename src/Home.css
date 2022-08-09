@@ -1,0 +1,18 @@
+.row {  
+    display: flex;
+    flex-wrap: wrap;
+}
+.midside {
+    flex: 20%;
+    align-items: center;
+    padding-left: 3%;
+}
+.rightside {   
+    flex: 70%;
+}
+.img {
+    position: center;
+    height: 50vh;
+    border: 1px solid rgb(147, 167, 255);
+    margin-left:10px;
+}
